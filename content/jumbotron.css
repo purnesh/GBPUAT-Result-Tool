@@ -1,14 +1,15 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 20px;
 }
 
 .course-code,.instructor-code{
-	padding: 6px;
+	padding: 5px;
 }
 
 .note{
+margin-top:-15px;
 padding-bottom:10px;
 }
 
